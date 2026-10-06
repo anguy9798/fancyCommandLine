@@ -1,0 +1,5 @@
+Hello world!
+This is a test file.
+Hello again, world!
+Special chars: . * ? [ ]
+Line 5: ending with pattern
